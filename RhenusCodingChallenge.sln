@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhenusCodingChallenge", "RhenusCodingChallenge\RhenusCodingChallenge.csproj", "{86DB39C6-43DD-42BF-8B6B-1D301C389642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhenusCodingChallenge.Tests", "RhenusCodingChallenge.Tests\RhenusCodingChallenge.Tests.csproj", "{2EF40468-D72E-40CB-AB9A-C5B4BC5DFC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DB39C6-43DD-42BF-8B6B-1D301C389642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DB39C6-43DD-42BF-8B6B-1D301C389642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DB39C6-43DD-42BF-8B6B-1D301C389642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DB39C6-43DD-42BF-8B6B-1D301C389642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF40468-D72E-40CB-AB9A-C5B4BC5DFC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF40468-D72E-40CB-AB9A-C5B4BC5DFC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF40468-D72E-40CB-AB9A-C5B4BC5DFC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF40468-D72E-40CB-AB9A-C5B4BC5DFC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
